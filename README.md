@@ -17,13 +17,13 @@ Requirements:
 
                       -s skipmap_folder (folder that contains coords or paf file generated previously from mummer or minimap2, with these you can skip alignment step)
 
-                      - a use Minimap2 aligner instead of Mummer aligner
+                      -a use Minimap2 aligner instead of Mummer aligner
                       
-                      - t <n> number of process used for alignment step
+                      -t <n> number of processes used for alignment step
                       
-                      - v <n> verbosity level
+                      -v <n> verbosity level
                       
-                      - o output folder for support files and scaffold writing
+                      -o output folder for support files and scaffold writing
                       
   
 Under folder /medusa2standalone/BenchmarkMedusa2/ you can see many usage example for running the tool!
