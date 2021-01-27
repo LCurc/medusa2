@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='medusa3',
+    name='medusa2',
     version='',
     packages=[''],
     url='',
