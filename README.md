@@ -13,7 +13,9 @@ Requirements:
 
 **Required parameters**: -i input_filename -f reference_folder
 
-**Optional parameters**: -s skipmap_folder (folder that contains coords or paf file generated previously from mummer or minimap2, with these you can skip alignment step)
+**Optional parameters**: 
+
+                      -s skipmap_folder (folder that contains coords or paf file generated previously from mummer or minimap2, with these you can skip alignment step)
 
                       - a use Minimap2 aligner instead of Mummer aligner
                       
