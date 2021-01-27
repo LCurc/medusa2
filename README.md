@@ -11,12 +11,17 @@ Requirements:
 
 **medusa2standalone**: contains medusa2 standalone version for running directly from bash
 
-**Required parameters**: -i input_filename -f reference_folder \n
+**Required parameters**: -i input_filename -f reference_folder
 
-**Optional parameters**: - s skipmap_folder (folder that contains coords or paf file generated previously from mummer or minimap2, with these you can skip alignment step)
+**Optional parameters**: -s skipmap_folder (folder that contains coords or paf file generated previously from mummer or minimap2, with these you can skip alignment step)
+
                       - a use Minimap2 aligner instead of Mummer aligner
+                      
                       - t <n> number of process used for alignment step
+                      
                       - v <n> verbosity level
+                      
                       - o output folder for support files and scaffold writing
+                      
   
 Under folder /medusa2standalone/BenchmarkMedusa2/ you can see many usage example for running the tool!
