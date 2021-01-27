@@ -11,7 +11,7 @@ Requirements:
 
 **medusa2standalone**: contains medusa2 standalone version for running directly from bash
 
-**Required parameters**: -i input_filename -f reference_folder
+**Run & Required parameters**: python3 medusa.py -i input_filename -f reference_folder
 
 **Optional parameters**: 
 
