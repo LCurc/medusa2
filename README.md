@@ -27,3 +27,4 @@ Requirements:
                       
   
 Under folder /medusa2standalone/BenchmarkMedusa2/ you can see many usage example for running the tool!
+In dataset_medusa.txt you have a link for dataset used about BCEN,ECOL,MTUB,RSPH,SAUR,THAL,CELEGANS.
