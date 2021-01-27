@@ -1,6 +1,6 @@
 # MeDuSa2
 From https://github.com/combogenomics/medusa A draft genome scaffolder that uses multiple reference genomes in a graph-based approach.
-Thanks to EBosi and GColotto.
+Thanks to EBosi and gianlucacolotto.
 
 Requirements:
 - Mummer  (sudo apt-get install mummer)
